@@ -6,4 +6,4 @@ https://p5js.org/
 
 Player one use UP_ARROW and DOWN_ARROW keys to play
 
-Player two use W an S keys to play
+Player two use W and S keys to play
